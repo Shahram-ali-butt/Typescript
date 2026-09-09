@@ -1,0 +1,10 @@
+{
+	"devDependencies": {
+		"tsx": "^4.23.13",
+		"typescript": "^7.0.2"
+	},
+	"scripts": {
+		"dev": "pnpm exec node dist/index.js",
+		"build": "tsc"
+	}
+}
